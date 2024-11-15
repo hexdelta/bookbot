@@ -1,1 +1,1 @@
-BookBot is my first project!
+BookBot is a lightweight application designed to read text files (specifically books) and return a report on the amount of words in the document, as well as list that contains the usage of each letter in the book.
